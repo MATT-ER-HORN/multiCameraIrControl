@@ -1,1 +1,1 @@
-# multiCameraIrControl
+# multiCameraIrControl original library by Sebastien Setz. This version rewritting by rewritten by Brian Helterline (https://github.com/bhelterline/multiCameraIrControl) in order allow the camera type to be changed while the sketch is running. 
